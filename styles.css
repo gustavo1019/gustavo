@@ -58,3 +58,8 @@ footer p {
     margin: 0;
     font-size: 1em;
 }
+img {
+    width: 100px;
+    height: auto;
+    border: 2px solid #000;
+}
